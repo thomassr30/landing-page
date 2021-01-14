@@ -6,7 +6,6 @@ import "jquery";
 import "popper.js";
 import "bootstrap";
 
-
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
