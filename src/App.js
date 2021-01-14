@@ -1,7 +1,12 @@
+
+import Navbar from "./Componentes/Navbar"
 import Jumbotron from './Componentes/Jumbotron'
 import Cards from './Componentes/Cards'
 
 function App() {
+  
+  <Navbar titulo="Start Bootstrap" />
+
 
   const tituloCard = [
     'Card title 1',
@@ -19,6 +24,7 @@ function App() {
       </div>
     </div>
   );
+
 }
 
 export default App;
